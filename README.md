@@ -21,7 +21,7 @@ This project demonstrates performance and stress testing on the [Restful Booker 
 * Collected test results in `.jtl` format and generated:
 
   * 📊 HTML reports
-  * 📈 Excel summary: `booking-api-test-report.xlsx`
+  * 📈 Excel summary: [booking-api-test-report.xlsx](https://docs.google.com/spreadsheets/d/1bWxifoDCqgriW_PjVOuJ4E1N2hc101XdvxSUEM6iXuE/edit?usp=sharing)
 
 ---
 
@@ -81,7 +81,33 @@ rm -rf Reports/ booking.jtl
 
 ---
 
+---
 
+## 🤝 Contributors
+
+- **[Md Rafsan Mahmud](https://github.com/MdRafsanMahmud)** – Creator, QA Tester  
+- **[Salman Rahman](https://github.com/salmansrabon)** – Reviewer / Contributor [LinkedIn](https://www.linkedin.com/in/kmsalmanrahman/)
+---
+
+## 👤 Author
+
+**Md Rafsan Mahmud**
+🔗 [LinkedIn](https://www.linkedin.com/in/mdrafsanmahmud/)
+✉️ [Email](mailto:mdrafsanmahmud99@gmail.com)
+
+
+---
+
+## ⭐ Final Notes
+
+This project highlights core strengths in:
+
+- ✅ Designing and executing realistic performance test scenarios    
+- 📊 Analyzing test metrics (throughput, response time, error rate)  
+- 🛠️ Identifying system bottlenecks under varying load conditions  
+- 🧪 Applying best practices in software quality assurance and JMeter usage  
+
+---
 
 
 
